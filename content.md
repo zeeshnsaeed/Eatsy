@@ -1,4 +1,4 @@
-##Branding
+## Branding
 
 Heading: Savor the flavors of our handcrafted cuisine, made with love.
 
